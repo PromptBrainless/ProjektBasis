@@ -2,6 +2,8 @@
 
 Versioned knowledge-system seed for the PromptBrainless ecosystem.
 
+Canva-Deckblatt: https://canva.link/wnojpa158zuuol9
+
 ## Architecture
 
 GitHub is the canonical operational source for code, executable agent configuration, skills, workflows, releases and project history.
@@ -27,6 +29,8 @@ Source → Research → Knowledge Note → Verified Pattern → PB-GDS Artifact 
 - 10-Projects
 - 11-Research
 - 12-Conversation-Archive
+- 20-Spielwelt
+- 30-Studio
 - 90-Templates
 - 99-Archive
 
