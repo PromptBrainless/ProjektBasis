@@ -1,3 +1,5 @@
+![ProjektBasis](docs/REPOSITORY-COVER.svg)
+
 # 🏠 FamilySpace
 
 > Familien-App für Kinder-Tagesplan, Aufgaben und Medien – kostenlos, sicher, datenschutzkonform.
@@ -107,3 +109,10 @@ familyspace/
 ## 📄 Lizenz
 
 MIT License – siehe [LICENSE](LICENSE)
+
+
+---
+
+## Repository identity
+
+This repository uses a versioned visual cover in `docs/REPOSITORY-COVER.svg` to make its scope visible at a glance.
