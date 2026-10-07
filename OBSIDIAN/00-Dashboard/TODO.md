@@ -9,9 +9,7 @@ status: active
 - [x] Struktur auf main gemergt
 - [x] Canva-Cover im README
 - [x] Vorfahren-Branches gelöscht
-- [x] Lindendorf V.1.3 als Kanon notiert
-- [x] Drosselau: Text, Bilder, App getrennt notiert
-- [x] Aschenkronev2 als Kanon notiert
-- [x] worldforge-studio nach 30-Studio notiert, ohne Spieldaten
-- [ ] rpgmaker, Fokus-Dokus, Feldwerk notieren
-- [ ] Leere Hüllen nur in 99-Archive notieren
+- [x] Lindendorf, Drosselau, Aschenkrone, worldforge-studio notiert
+- [x] Alle 44 Repos gesichtet, Inventar in 10-Projects/INVENTAR.md
+- [ ] Zeilen für wfrp-async-website, Rollenspiele-2-Versuch, Dell-Beta, Beta3, mixure, GameBuildAlpha, MyRPG1
+- [ ] Zeilen für funtionsrwife, Fokus-Dokus, Feldwerk, rpgmaker, Build-You-Story, Dice
