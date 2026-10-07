@@ -6,13 +6,11 @@ status: active
 # TODO
 
 - [x] Alten main als archive/familyspace sichern
-- [x] Strukturbranch chore/vault-structure
-- [x] Ordner 08, 09, 20, 30, 99 anlegen
-- [x] Canva-Cover verlinken: https://canva.link/wnojpa158zuuol9
-- [ ] PR gegen docs/conversation-archive-obsidian öffnen und mergen
-- [ ] Default-Branch erst nach Freigabe wechseln
-- [ ] Lindendorf extrahieren
+- [x] Struktur auf main gemergt, `0c4abe85`
+- [x] Canva-Cover im README
+- [ ] Vorfahren-Branches löschen
+- [ ] Lindendorf V.1.3 als Kanon notieren, ältere Stände nur Herkunft
 - [ ] Drosselau extrahieren
-- [ ] Aschenkrone extrahieren
-- [ ] Studio-Werkzeuge extrahieren
+- [ ] Aschenkronev2 extrahieren
+- [ ] worldforge-studio nach 30-Studio
 - [ ] Leere Hüllen nur in 99-Archive notieren
