@@ -26,6 +26,7 @@ Source → Research → Knowledge Note → Verified Pattern → PB-GDS Artifact 
 - 09-Security
 - 10-Projects
 - 11-Research
+- 12-Conversation-Archive
 - 90-Templates
 - 99-Archive
 
