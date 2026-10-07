@@ -44,3 +44,23 @@
 - Actions and deployment
 - dependency/security supply chain
 - repository-specific agent instructions
+
+
+## Obsidian Knowledge Layer
+- OBSIDIAN/README.md
+- OBSIDIAN/00-Dashboard/Home.md
+- OBSIDIAN/01-MOCs/MOC-Knowledge-System.md
+- OBSIDIAN/01-MOCs/MOC-Git-GitHub.md
+- OBSIDIAN/01-MOCs/MOC-AI-Agents.md
+- OBSIDIAN/01-MOCs/MOC-Prompt-Engineering.md
+- OBSIDIAN/01-MOCs/MOC-AI-Generators.md
+- OBSIDIAN/01-MOCs/MOC-Research.md
+- OBSIDIAN/03-Git-GitHub/GitHub-Customization.md
+- OBSIDIAN/04-AI-Agents/Coding-Agent-Architecture.md
+- OBSIDIAN/05-Prompt-Engineering/Prompt-Research-Method.md
+- OBSIDIAN/06-AI-Generators/Midjourney-Research.md
+- OBSIDIAN/07-MCP/MCP-Architecture.md
+- OBSIDIAN/11-Research/Research-Registry.md
+
+## PB-GDS linkage
+Obsidian is the curated knowledge layer; PB-GDS remains canonical for executable rules, skills, workflows and AI artifacts.
